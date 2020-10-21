@@ -1,0 +1,36 @@
+{
+	"cursos": [
+		{
+        "id": 1,
+        "price": "100",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
+        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg",
+        "nameCourse": "Javascript desde cero",
+        "nameTeacher": "Beto Quiroga"
+    },
+    {
+        "id": 2,
+        "price": "110",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/26557907-0555-427e-a40c-6ff207f98d72.png",
+        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png",
+        "nameCourse": "HTML desde cero",
+        "nameTeacher": "Alvaro Felipe"
+    },
+    {
+        "id": 3,
+        "price": "120",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/f8016461-72f6-40c9-adba-9186b240748b.png",
+        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/8e0b61dd-6fb6-43e5-9028-525d9f060b64.jfif",
+        "nameCourse": "Flutter desde cero",
+        "nameTeacher": "Alvaro Martinez"
+    },
+    {
+        "id": 4,
+        "price": "130",
+        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/e41bbf77-d458-48d9-814b-7dd62a214e40.png",
+        "photoTeacher": "https://lh3.googleusercontent.com/a-/AOh14GibxAen4L8PgzDmE6GBWqy6riDZ5TQ68djyY74H0g",
+        "nameCourse": "Docker desde cero",
+        "nameTeacher": "Mauricio Ballesteros"
+    }
+	]
+}
