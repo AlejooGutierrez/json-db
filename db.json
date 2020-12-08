@@ -2,35 +2,52 @@
 	"cursos": [
 		{
         "id": 1,
-        "price": "100",
-        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
-        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg",
-        "nameCourse": "Javascript desde cero",
-        "nameTeacher": "Beto Quiroga"
+        "fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg"
+      	"nombreCurso" : "JavaScript desde cero"
+      	"profesor" : "Beto Quiroga"
+      	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/fe7d67c4-f2b2-4c93-82d5-56a83c9cd86f.jpg"
+      	"price" : 2500
     },
     {
         "id": 2,
-        "price": "110",
-        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/26557907-0555-427e-a40c-6ff207f98d72.png",
-        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png",
-        "nameCourse": "HTML desde cero",
-        "nameTeacher": "Alvaro Felipe"
+        "fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/26557907-0555-427e-a40c-6ff207f98d72.png"
+      	"nombreCurso" : "HTML desde cero"
+      	"profesor" : "Alvaro Felipe"
+      	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png"
+      	"price" : 3200
     },
     {
         "id": 3,
-        "price": "120",
-        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/f8016461-72f6-40c9-adba-9186b240748b.png",
-        "photoTeacher": "https://edteam-media.s3.amazonaws.com/users/thumbnail/8e0b61dd-6fb6-43e5-9028-525d9f060b64.jfif",
-        "nameCourse": "Flutter desde cero",
-        "nameTeacher": "Alvaro Martinez"
+        "fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/d438e9fa-77f0-4184-9d70-dd7778c309ec.png"
+       	"nombreCurso" : "Comsumiendo APIs con Blazor"
+      	"profesor" : "Anthony Portilla"
+      	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/f242d8c4-f809-4e4c-baec-05abcaea3256.png"
+      	"price" : 1800
     },
     {
         "id": 4,
-        "price": "130",
-        "image": "https://edteam-media.s3.amazonaws.com/courses/medium/e41bbf77-d458-48d9-814b-7dd62a214e40.png",
-        "photoTeacher": "https://lh3.googleusercontent.com/a-/AOh14GibxAen4L8PgzDmE6GBWqy6riDZ5TQ68djyY74H0g",
-        "nameCourse": "Docker desde cero",
-        "nameTeacher": "Mauricio Ballesteros"
-    }
+        "fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/a2d8f5c6-3cc5-4ffd-bea7-5b8b8b174db6.png"
+      	"nombreCurso" : "Curso Diseño UI"
+      	"profesor" : "Alvaro Felipe"
+       	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png"
+      	"price" : 1900
+    },
+    {
+    	"id": 5,
+	"fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/cf0aecf3-0ddb-43b5-8d44-a7a3b9c54fed.png"
+      	"nombreCurso" : "Curso de Figma"
+      	"profesor" : "Alvaro Felipe"
+      	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png"
+      	"price" : 2900
+    },
+    {
+    	"id" : 6,
+	"fotoGrande" : "https://edteam-media.s3.amazonaws.com/courses/big/0903d86f-5e06-46f2-87e6-6ad3020a6bec.png"
+      	"nombreCurso" : "JavaScript Para Niños"
+      	"profesor" : "Marina Charris"
+      	"fotoProfesor" : "https://edteam-media.s3.amazonaws.com/users/thumbnail/d58a76ba-96f3-421f-a0e9-b1aaf6cad0ba.jpg"
+      	"price" : {5900}
+	    
+    } 
 	]
 }
